@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **medical project**
 
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning AI
 
 - 📫 How to reach me **bethakuwarji@gmail.com**
 
