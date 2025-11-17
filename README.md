@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Deep Learning **tensorflow**
 
-- 📫 How to reach me **bethakuwarji@gmail.com**
+- 📫 How to reach me **bethajikuwar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
