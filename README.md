@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in cybersrcc**
 
-- 🌱 I’m currently learning Deep Learning **tensorflow**
+- 🌱 I’m currently learning AI
 
 - 📫 How to reach me **bethajikuwar@gmail.com**
 
