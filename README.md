@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuwar Ji Betha</h1>
 <h3 align="center">A passionate Ml/Ai engineer from India</h3>
 
-- 🔭 I’m currently working on **medical project**
+- 🔭 I’m currently working in cybersrcc**
 
 - 🌱 I’m currently learning Deep Learning **tensorflow**
 
