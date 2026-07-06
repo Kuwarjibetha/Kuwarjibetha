@@ -16,7 +16,7 @@ AI & Machine Learning Enthusiast • Full Stack Web Developer • India 🇮🇳
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech Computer Science Student**
+- 🎓 **B.Tech Computer Science **
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
 - 🌐 Building **Full Stack Web Applications**
 - 🔍 Exploring **RAG, LLMs, REST APIs & AI-powered applications**
