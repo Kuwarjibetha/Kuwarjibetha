@@ -18,7 +18,7 @@ AI & Machine Learning Enthusiast • Full Stack Web Developer • India 🇮🇳
 
 - 🎓 **B.Tech Computer Science **
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
-- 🌐 Building **Full Stack Web Applications**
+- 🌐 Building **Full Stack Web Applications and Ai Agent**
 - 🔍 Exploring **RAG, LLMs, REST APIs & AI-powered applications**
 - 💡 Love solving real-world problems through technology
 - 📫 **bethajikuwar@gmail.com**
