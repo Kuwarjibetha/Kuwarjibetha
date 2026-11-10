@@ -2,27 +2,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=39FF14&background=0D111700&center=true&vCenter=true&width=780&height=50&lines=%24+ssh+kuwar%40india;Welcome+to+Kuwar's+terminal+%F0%9F%96%A5%EF%B8%8F;%24+npm+run+build+%26%26+python+train.py;SDE-1+%7C+Full+Stack+%7C+AI%2FML+%7C+GenAI;%24+git+push+origin+main+%F0%9F%9A%80" alt="typing" />
 </p>
 
-```diff
- ╔══════════════════════════════════════════════════════════════════════╗
- ║  ● ● ●                  kuwar@india: ~/profile  —  zsh               ║
- ╠══════════════════════════════════════════════════════════════════════╣
- ║                                                                      ║
-+║   ██╗  ██╗██╗   ██╗██╗    ██╗ █████╗ ██████╗        ██╗ ██╗          ║
-+║   ██║ ██╔╝██║   ██║██║    ██║██╔══██╗██╔══██╗       ██║ ██║          ║
-+║   █████╔╝ ██║   ██║██║ █╗ ██║███████║██████╔╝       ██║ ██║          ║
-+║   ██╔═██╗ ██║   ██║██║███╗██║██╔══██║██╔══██╗  ██   ██║ ██║          ║
-+║   ██║  ██╗╚██████╔╝╚███╔███╔╝██║  ██║██║  ██║  ╚█████╔╝ ██║          ║
-+║   ╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚════╝  ╚═╝          ║
- ║                                                                      ║
- ║   user    : Kuwar Ji Betha                                           ║
- ║   role    : Software Development Engineer I (SDE-1)                  ║
- ║   edu     : B.Tech Computer Science                                  ║
- ║   loc     : India 🇮🇳                                                 ║
- ║   stack   : Python · JavaScript · C · React · Node · MongoDB         ║
- ║   focus   : Full Stack · AI Agents · GenAI · RAG · LLMs              ║
- ║   status  : 🟢 online — shipping code                                 ║
- ║                                                                      ║
- ╚══════════════════════════════════════════════════════════════════════╝
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║  ● ● ●                  kuwar@india: ~/profile  —  zsh               ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   ██╗  ██╗██╗   ██╗██╗    ██╗ █████╗ ██████╗        ██╗ ██╗          ║
+║   ██║ ██╔╝██║   ██║██║    ██║██╔══██╗██╔══██╗       ██║ ██║          ║
+║   █████╔╝ ██║   ██║██║ █╗ ██║███████║██████╔╝       ██║ ██║          ║
+║   ██╔═██╗ ██║   ██║██║███╗██║██╔══██║██╔══██╗  ██   ██║ ██║          ║
+║   ██║  ██╗╚██████╔╝╚███╔███╔╝██║  ██║██║  ██║  ╚█████╔╝ ██║          ║
+║   ╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚════╝  ╚═╝          ║
+║                                                                      ║
+║   user    : Kuwar Ji Betha                                           ║
+║   role    : Software Development Engineer I (SDE-1)                  ║
+║   edu     : B.Tech Computer Science                                  ║
+║   loc     : India 🇮🇳                                                 ║
+║   stack   : Python · JavaScript · C · React · Node · MongoDB         ║
+║   focus   : Full Stack · AI Agents · GenAI · RAG · LLMs              ║
+║   status  : 🟢 online — shipping code                                 ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
