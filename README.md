@@ -2,7 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=39FF14&background=0D111700&center=true&vCenter=true&width=780&height=50&lines=%24+ssh+kuwar%40india;Welcome+to+Kuwar's+terminal+%F0%9F%96%A5%EF%B8%8F;%24+npm+run+build+%26%26+python+train.py;SDE-1+%7C+Full+Stack+%7C+AI%2FML+%7C+GenAI;%24+git+push+origin+main+%F0%9F%9A%80" alt="typing" />
 </p>
 
-```text
+<table align="center">
+<tr>
+<td>
+
+<pre>
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  ● ● ●                  kuwar@india: ~/profile  —  zsh               ║
 ╠══════════════════════════════════════════════════════════════════════╣
@@ -23,7 +27,11 @@
 ║   status  : 🟢 online — shipping code                                 ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
-```
+</pre>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SDE--1-0D1117?style=flat-square&logo=gnometerminal&logoColor=39FF14&labelColor=0D1117&color=30363d" />
